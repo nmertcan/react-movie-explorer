@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.local
+
+# Local workspace metadata, not part of the React project
+AGENTS.md
+sources/
